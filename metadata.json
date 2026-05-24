@@ -1,0 +1,6 @@
+{
+  "name": "澎湖舒壓之旅",
+  "description": "專為爸媽設計的澎湖4天3夜舒壓行程 App，大字體、高對比、一鍵導航，貼心老花眼長輩！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
